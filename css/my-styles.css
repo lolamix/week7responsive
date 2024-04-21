@@ -1,0 +1,32 @@
+        * {
+            background-color: whitesmoke;
+        font-family: Arial, Verdana, sans-serif;
+        color: #270035;
+        box-sizing: border-box;}
+        
+        header h1 {
+        color: #270035; }
+
+        article h4 {
+        text-align: center;}
+
+        section h3 {
+            font-weight: 
+        }
+
+        article img {
+        max-width: 100%;
+        height:auto;}
+
+        nav, #feature, footer {
+        margin: 1%; }
+
+        nav li {
+        
+        display: inline;
+		padding: 0.5em;
+        color: #270035;}
+
+        .row-color-1 {
+            background-color:#7e4076;
+        }
